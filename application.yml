@@ -6,3 +6,6 @@ eureka:
       defaultZone: http://localhost:8762/eureka/
   instance:
     hostname: localhost
+
+app:
+  title: hello-wello
