@@ -8,4 +8,4 @@ eureka:
     hostname: localhost
 
 app:
-  title: hello-wello
+  title: hello-bullo
